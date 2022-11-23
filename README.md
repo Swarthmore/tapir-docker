@@ -1,5 +1,5 @@
 # tapir-docker
-Docker container for the Tapir astronomy application
+Docker container for the [Tapir astronomy application](https://github.com/elnjensen/Tapir)
 
 ## Setup and run
 * Make sure Docker is installed and running.  `cd` into the directory containing the Dockerfile
